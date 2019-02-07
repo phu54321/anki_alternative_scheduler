@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Private data?
+!data/
+data/*
+!data/.gitkeep
